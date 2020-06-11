@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,a,e){"use strict";e.r(a);var n=function(){var t=this,a=t.$createElement;t._self._c;return t._m(0)},s=[function(){var t=this,a=t.$createElement,e=t._self._c||a;return e("div",{staticClass:"about"},[e("h1",[t._v("About")]),e("p",[t._v("Burası akının yapılacaklar listesi")])])}],l=e("2877"),u={},r=Object(l["a"])(u,n,s,!1,null,null,null);a["default"]=r.exports}}]);
+//# sourceMappingURL=about.12c81cf1.js.map
